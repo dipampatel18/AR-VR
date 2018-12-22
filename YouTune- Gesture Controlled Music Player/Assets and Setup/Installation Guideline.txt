@@ -1,0 +1,3 @@
+1. Download Leap Motion Orion Setup from the leapmotion.com website
+
+2. Insert Leapmotion in your computer and execute your project in Unity
